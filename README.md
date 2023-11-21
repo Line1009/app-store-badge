@@ -1,4 +1,4 @@
-# App Store Badge
+Line.Anders instagram # App Store Badge
 
 This repository contains the source code for web component that displays the "Get this app on the Microsoft Store" badge.
 
